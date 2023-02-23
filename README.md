@@ -1,4 +1,2 @@
 # trainingZone
-A beginner's training zone
-
-# Intro
+This is a repo for testing
